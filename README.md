@@ -37,6 +37,6 @@ Scenario:
 
  Rice 🍚 
  ([thegrainofrice.com](https://www.thegrainofrice.com/))
- ([Linkedin](www.linkedin.com/in/patrice-maxwell))
+ ([Linkedin](https://www.linkedin.com/in/patrice-maxwell))
 
 
